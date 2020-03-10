@@ -1,0 +1,11 @@
+.btn-outline-dark{
+    color: red;
+}
+.btn-outline-success {
+    color:  red;
+    border-color: lightslategray;
+}
+.btn {
+    color:  red; 
+    border-color: hsl(120, 8%, 22%);
+}
